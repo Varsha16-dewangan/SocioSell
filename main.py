@@ -1,4 +1,3 @@
-#  main.py
 
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
